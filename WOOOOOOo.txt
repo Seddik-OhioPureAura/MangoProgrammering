@@ -1,2 +1,0 @@
-Game Quality = AAA;
-fps = 200+;
